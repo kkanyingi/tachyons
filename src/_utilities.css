@@ -22,6 +22,8 @@
 .mr-auto { margin-right: auto; }
 .ml-auto { margin-left:  auto; }
 
+.pointer-event-none { pointer-events: none;}
+
 @media (--breakpoint-not-small){
   .center-ns {
     margin-right: auto;
